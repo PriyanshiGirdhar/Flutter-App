@@ -1,0 +1,29 @@
+com/example/changelanguage/data/model/LoggedInUser.java
+ com.example.changelanguage.data.model.LoggedInUser
+com/example/changelanguage/databinding/ActivityLoginBinding.java
+ com.example.changelanguage.databinding.ActivityLoginBinding
+com/example/changelanguage/ui/login/LoggedInUserView.java
+ com.example.changelanguage.ui.login.LoggedInUserView
+com/example/changelanguage/ui/login/LoginViewModelFactory.java
+ com.example.changelanguage.ui.login.LoginViewModelFactory
+com/example/changelanguage/data/Result.java
+ com.example.changelanguage.data.Result
+ com.example.changelanguage.data.Result$1
+ com.example.changelanguage.data.Result$Error
+ com.example.changelanguage.data.Result$Success
+com/example/changelanguage/ui/login/LoginResult.java
+ com.example.changelanguage.ui.login.LoginResult
+com/example/changelanguage/BuildConfig.java
+ com.example.changelanguage.BuildConfig
+com/example/changelanguage/ui/login/LoginFormState.java
+ com.example.changelanguage.ui.login.LoginFormState
+com/example/changelanguage/ui/login/LoginViewModel.java
+ com.example.changelanguage.ui.login.LoginViewModel
+com/example/changelanguage/data/LoginRepository.java
+ com.example.changelanguage.data.LoginRepository
+com/example/changelanguage/data/LoginDataSource.java
+ com.example.changelanguage.data.LoginDataSource
+com/example/changelanguage/ui/login/LoginActivity.java
+ com.example.changelanguage.ui.login.LoginActivity
+ com.example.changelanguage.ui.login.LoginActivity$1
+ com.example.changelanguage.ui.login.LoginActivity$2

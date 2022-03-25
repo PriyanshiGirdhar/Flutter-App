@@ -1,0 +1,8 @@
+com/example/sharedpreference/BuildConfig.java
+ com.example.sharedpreference.BuildConfig
+com/example/sharedpreference/databinding/ActivityMainBinding.java
+ com.example.sharedpreference.databinding.ActivityMainBinding
+com/example/sharedpreference/MainActivity.java
+ com.example.sharedpreference.MainActivity
+ com.example.sharedpreference.MainActivity$1
+ com.example.sharedpreference.MainActivity$2
